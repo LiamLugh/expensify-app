@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render ExpenseList with empty data. 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Should render ExpenseList with expenses. 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
